@@ -13,7 +13,9 @@ references:
     run:
       name: Run tests.
       command: |
-        python setup.py test
+        pip3 install coveralls
+        coverage run --source=apistrap setup.py test
+        coveralls
 
   deploy: &deploy
     run:

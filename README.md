@@ -1,6 +1,7 @@
 # Cognexa HTTP API utilities
 
 [![CircleCI](https://circleci.com/gh/Cognexa/apistrap/tree/dev.svg?style=shield&circle-token=74491da8e8fa3528ab1566beffd13d3386acefa0)](https://circleci.com/gh/Cognexa/apistrap/tree/master)
+[![Coverage Status](https://coveralls.io/repos/github/Cognexa/apistrap/badge.svg?branch=dev)](https://coveralls.io/github/Cognexa/apistrap?branch=dev)
 [![Development Status](https://img.shields.io/badge/status-CX%20Regular-brightgreen.svg?style=flat)]()
 [![Master Developer](https://img.shields.io/badge/master-Jan%20Buchar-lightgrey.svg?style=flat)]()
 
